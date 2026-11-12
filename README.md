@@ -1,6 +1,6 @@
 # PerkRadar — self-hosted deal/perk feed aggregator with search, filters, favourites and "claimed" tracking. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/WlJLKB)
 
 [PerkRadar](https://github.com/luobinger/PerkRadar) (MIT, by luobinger) polls a fixed set of public RSS, Atom, JSON and Markdown
 deal sources on a schedule, stores titles, links and short summaries in one SQLite file, and gives you a web board to search,
